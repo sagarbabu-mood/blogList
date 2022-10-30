@@ -1,0 +1,27 @@
+.profile {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'roboto';
+}
+
+.name {
+  color: #12022f;
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.name-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.role {
+  color: #616e7c;
+}

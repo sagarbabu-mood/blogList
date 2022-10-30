@@ -1,0 +1,31 @@
+.list-item-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  font-family: 'Roboto';
+}
+
+.title-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.title {
+  font-size: 22px;
+  color: #12022f;
+}
+
+.date {
+  margin-left: auto;
+  color: #9aa5b1;
+}
+
+.description {
+  color: #616e7c;
+}
+
+.hr-line {
+  color: #9aa5b1;
+  width: 100%;
+}
